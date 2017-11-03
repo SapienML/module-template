@@ -11,8 +11,6 @@
       "sourceMap": true,
       "target":"es5",
       "baseUrl": ".","paths": {
-        "@types" : ["src/main.ts"]
-        // "@layers" : ["src/core/layers/index.ts"]
       },
       "declaration": true
     },
