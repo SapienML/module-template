@@ -1,5 +1,5 @@
 {
-  "name": "@sapien/<module_name>",
+  "name": "@sapien/module-name",
   "version": "0.0.0",
   "description": "The Missing AI / ML Library for JavaScript.",
   "main": "dist/main.js",
