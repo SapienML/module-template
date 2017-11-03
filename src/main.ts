@@ -1,2 +1,2 @@
-export * from './Tensor';
-console.log("SapienML loaded : types")
+// export everything here
+console.log("SapienML loaded : <modulename>")
