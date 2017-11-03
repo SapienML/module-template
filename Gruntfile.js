@@ -7,7 +7,7 @@ const tsc =  {
         declaration : true,
         sourceMap : false
     }
-}
+};
 
 module.exports = function(grunt) {
     require("load-grunt-tasks")(grunt);
@@ -17,7 +17,7 @@ module.exports = function(grunt) {
             ts : tsc
         });
 
-    grunt.loadNpmTasks("grunt-ts")
+    grunt.loadNpmTasks("grunt-ts");
     // Default task(s).
     grunt.registerTask("default", ["ts"]);
 
